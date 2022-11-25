@@ -1,5 +1,5 @@
 <div align="center">
-    <h1>School Network VN 🌿</h1>
+    <h1>🌿<br>School Network VN</h1>
     <strong>Open source social media app</strong>
 </div>
 <div align="center">
@@ -38,6 +38,8 @@ npm install
 npm run dev
 ```
 
+and visit http://localhost:4783
+
 ## 💕 Supporting
 
 Feel free to contribute to this project. Anyone can be a contributor. Either you found a typo, or you have an awesome feature request you could implement, we encourage you to create a Merge Request.
@@ -51,5 +53,3 @@ Feel free to contribute to this project. Anyone can be a contributor. Either you
 - We encourage you to test your changes, and if you have the opportunity, please make those tests part of the Merge Request.
 - If you add new functionality, please provide the corresponding documentation as well and make it part of the Merge Request.
 - The Merge Request should be raised against main branch.
-
-## 🥳🥳🥳
