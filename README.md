@@ -1,5 +1,5 @@
 <div align="center">
-    <span style="font-size: 50px">🌿</span>
+    <span style="font-size: 40px;">🌿</span>
     <h1>School Network VN</h1>
     <strong>Open source social media app 🌿</strong>
 </div>
@@ -38,8 +38,6 @@ cp .env.example .env
 npm install
 npm run dev
 ```
-
-and visit http://localhost:4783
 
 ## 💕 Supporting
 
