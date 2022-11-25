@@ -1,5 +1,5 @@
 <div align="center">
-    <span style="font-size: 40px;">🌿</span>
+    <font size="50">🌿</font>
     <h1>School Network VN</h1>
     <strong>Open source social media app 🌿</strong>
 </div>
