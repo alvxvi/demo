@@ -7,7 +7,6 @@
     •
     <a href="https://github.com/alvxvi/schoolnetworkvn"><b>Issues</b></a>
 </div>
-<br>
 
 ## ✅ Community
 
