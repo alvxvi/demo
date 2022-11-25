@@ -1,5 +1,7 @@
 <div align="center">
     <font size="50">🌿</font>
+    <font size="50">logo</font>
+    <font size="50px">logo</font>
     <h1>School Network VN</h1>
     <strong>Open source social media app 🌿</strong>
 </div>
